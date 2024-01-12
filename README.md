@@ -1,2 +1,2 @@
-# Rocnikova_prace
+# Ročníková_práce
 ahoj
