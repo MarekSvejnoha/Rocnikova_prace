@@ -1,2 +1,2 @@
-# Ročníková_práce
-ahoj
+# Ročníková práce - Chytrý obal na květináč
+
